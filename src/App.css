@@ -1,0 +1,20 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+.app {
+  background-color: #111111;
+  width: 100%;
+  min-height: 100vh;
+  max-height: auto;
+  padding: 10px 0px;
+}
+
+.form-data {
+  margin: 25px auto;
+  width: 90%;
+  background-color: #1D1E1F;
+  height: auto;
+  padding: 50px 25px;
+}
